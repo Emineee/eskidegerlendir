@@ -1,3 +1,4 @@
-#bu bir e-ticaret projesidir.
+#bu php programlama dili kullanýlarak yapýlmýiþ bir e-ticaret projesidir.
+Amacý eski eþyalarýn deðerlendirilmesi 
 
-copyright emine meydanoðlu
+copyright emine meydanoðlu 
